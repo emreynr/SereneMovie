@@ -1,0 +1,10 @@
+{
+  "OriginalName": "2.png",
+  "ImageSize": "512x512",
+  "ThumbSize": "96x96",
+  "EntityTable": "Movie",
+  "EntityType": "MovieTutorial.MovieDB.MovieRow",
+  "EntityField": "GalleryImages",
+  "EntityProperty": "GalleryImages",
+  "EntityId": "1"
+}
